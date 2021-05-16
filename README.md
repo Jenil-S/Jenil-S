@@ -1,5 +1,5 @@
 <h1 align="center">Hi,I'm Jenil 👋</h1>
-<h3 align="center">I'm currently pursuing Computer Engineering, very passionate to dive in Ds Algo and I enjoy learning new technologies in my free time.</h3>
+<h3 align="center">I'm currently undergraduate Computer Engineer, very passionate to dive in Ds Algo and I enjoy learning new technologies in my free time.</h3>
 
 
 <p align="left">
