@@ -9,7 +9,7 @@
   <a href="mailto: jenushah02@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p><br>
 
-<p>I'll be more gratefull if you can reach out to me and connect with me.</p>
+<p>I'll be very gratefull if you will give feedback on my any repository.</p>
 <!--p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jenil-s&show_icons=true&locale=en&layout=compact" alt="jenil-s" /></p-->
 <br>
 <br>
