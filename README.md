@@ -13,7 +13,10 @@
 <p>I'll be very gratefull if you will give feedback on my any repository.</p>
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenil-s&show_icons=true&locale=en" alt="jenil-s" /></p>
+<!--p>&nbsp;<img align="center" src=" https://github-readme-stats.vercel.app/api?username=jenil-s&&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&show_icons=true" alt="jenil-s" /></p-->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenil-s&&show_icons=true&title_color=bb2acf&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+
   <br>
   <br>
 
