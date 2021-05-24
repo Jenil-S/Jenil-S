@@ -10,7 +10,7 @@
   <a href="https://www.gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p><br>
 
-<p>I'll be very gratefull if you will give feedback on my any repository:innocent:.</p>
+<p>I'll be very gratefull to have feedback on any repository:innocent:.</p>
 
 <br>
 <!--p>&nbsp;<img align="center" src=" https://github-readme-stats.vercel.app/api?username=jenil-s&&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&show_icons=true" alt="jenil-s" /></p-->
