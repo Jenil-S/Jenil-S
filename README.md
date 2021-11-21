@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋,I'm Jenil</h1>
+<h1 align="center">Hey 👋,I'm <a href="https://github.com/Jenil-S">Jenil</a> </h1>
 <img align="right" src="https://user-images.githubusercontent.com/60750701/119502234-5937dd00-bd87-11eb-9375-ba68370c542f.jpg" width=450/>
 <h3 align="left">I'm an undergraduate Computer Engineer, very passionate to dive in Ds Algo and I enjoy learning new technologies in my free time.</h3>
 
